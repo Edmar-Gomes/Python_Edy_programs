@@ -1,0 +1,5 @@
+ Esse texto e para testar 
+como escrever em um arquivo agora estou usando o append que 
+nao sobrepoe o texto,
+,mas sim adciona  agora estou usando o append que 
+teste
