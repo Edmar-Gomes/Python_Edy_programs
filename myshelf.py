@@ -1,6 +1,11 @@
 import shelve
 
-shelfFile = shelve.open("c://users/edmarg//documents//Python_Edy_programs//mydata.txt")
+shelfFile = shelve.open("mydata")
 cats = ["Zophie","Pooka","Simon"]
 shelfFile['cats'] = cats
 shelfFile.close()
+
+shelfFile = shelve.open("mydata")
+type(shelfFile)
+shelfFile["cats"]
+shelfFile.close() 
