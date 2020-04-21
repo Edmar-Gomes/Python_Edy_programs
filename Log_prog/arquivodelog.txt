@@ -1,0 +1,8 @@
+2020-04-20 22:40:23,220 - DEBUG -Comeco do programa
+2020-04-20 22:40:24,693 - DEBUG -Comeco do fatorial (4)
+2020-04-20 22:40:24,693 - DEBUG -i is 1 and Total is 1
+2020-04-20 22:40:24,693 - DEBUG -i is 2 and Total is 2
+2020-04-20 22:40:24,693 - DEBUG -i is 3 and Total is 6
+2020-04-20 22:40:24,693 - DEBUG -i is 4 and Total is 24
+2020-04-20 22:40:24,693 - DEBUG -fim do fatorial (4)
+2020-04-20 22:40:24,697 - DEBUG -Fim do programa
